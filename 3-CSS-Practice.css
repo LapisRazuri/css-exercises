@@ -1,0 +1,36 @@
+.background-pink {
+    background-color: rgb(247, 211, 227);
+}
+
+@font-face {
+    font-family: My Font;
+    src: url(fonts/myfont.ttf)
+}
+
+.font-Verdana {
+    font font-family: Verdana;
+}
+
+.font-sans-serif{
+    font-family: sans-serif;
+}
+
+#color-blue {
+    color:rgb(18, 54, 234);
+}
+
+.fontsize-36 {
+    font-size: 36px;
+}
+
+.fontsize-24 {
+    font-size: 24px;
+}
+
+.background-lightgreen {
+    background-color: lightgreen;
+}
+
+.bold {
+    font-weight:bold;
+}
