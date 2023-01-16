@@ -2,17 +2,14 @@
     background-color: rgb(247, 211, 227);
 }
 
-@font-face {
-    font-family: My Font;
-    src: url(fonts/myfont.ttf)
-}
 
 .font-Verdana {
-    font font-family: Verdana;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.font-sans-serif{
-    font-family: sans-serif;
+.font-one {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 #color-blue {
